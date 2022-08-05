@@ -1,0 +1,25 @@
+/* font-family: Abel */
+@font-face {
+    font-family: Abel;
+    src: url('../fonts/Abel/Abel-Regular.ttf');
+}
+/* font-family: Baloo_2 */
+@font-face {
+    font-family: Baloo_2;
+    src: url('../fonts/Baloo_2/Baloo2-VariableFont_wght.ttf');
+}
+/* font-family: Baloo_Tammudu_2 */
+@font-face {
+    font-family: Baloo_Tammudu_2;
+    src: url('../fonts/Baloo_Tammudu_2/BalooTammudu2-VariableFont_wght.ttf');
+}
+/* font-family: Nuosu_SIL */
+@font-face {
+    font-family: Nuosu;
+    src: url('../fonts/Nuosu_SIL/NuosuSIL-Regular.ttf');
+}
+/* font-family: Roboto */
+@font-face {
+    font-family: Roboto;
+    src: url('../fonts/Roboto/Roboto-Black.ttf');
+}
